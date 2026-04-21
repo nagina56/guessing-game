@@ -25,3 +25,6 @@ This project was created to practice basic Python concepts like:
 ---
 
  Created by: Nageen Azhar
+
+![Game Screenshot]
+(Screenshot guessing_game.png)
