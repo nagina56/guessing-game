@@ -27,4 +27,4 @@ This project was created to practice basic Python concepts like:
  Created by: Nageen Azhar
 
 ![Game Screenshot]
-https://github.com/nagina56/guessing-game/blob/main/Screenshot%20guessing_game.png?raw=true
+https://raw.githubusercontent.com/nagina56/guessing-game/refs/heads/main/Screenshot_%20guessing_game.png
