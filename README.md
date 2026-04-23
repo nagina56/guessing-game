@@ -22,9 +22,13 @@ This project was created to practice basic Python concepts like:
 - Conditional statements
 - User input handling
 
----
+## Author:
 
- Created by: Nageen Azhar
+Created by: Nageen Azhar
+
+## Screenshot:
 
 ![Game Screenshot]
-https://raw.githubusercontent.com/nagina56/guessing-game/refs/heads/main/Screenshot_%20guessing_game.png
+(Screenshot_guessing_game.png)
+
+<img width="341" height="554" alt="Screenshot_guessing_game" src="https://github.com/user-attachments/assets/bfa4587a-814e-4ff0-8e8b-f81aae532e35" />
